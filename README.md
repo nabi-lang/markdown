@@ -31,7 +31,7 @@ pass one through `Options.code` (pairs well with
 
 ## Docs
 
-https://packages.nabi-lang.org/packages/markdown/latest/docs
+https://docs.nabi-lang.org/packages/markdown/latest
 
 ## License
 
